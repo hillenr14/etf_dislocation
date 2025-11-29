@@ -1,0 +1,50 @@
+ticker,name,asset_class,category,benchmark_proxy
+VTI,Vanguard Total Stock Market,Equity,Broad Market,^GSPC
+ITOT,iShares Core S&P Total U.S. Stock Market,Equity,Broad Market,^GSPC
+VOO,Vanguard S&P 500,Equity,Large Cap,^GSPC
+IVV,iShares Core S&P 500,Equity,Large Cap,^GSPC
+SPY,SPDR S&P 500,Equity,Large Cap,^GSPC
+VTV,Vanguard Value,Equity,Value,^GSPC
+IWD,iShares Russell 1000 Value,Equity,Value,^GSPC
+VUG,Vanguard Growth,Equity,Growth,^GSPC
+IWF,iShares Russell 1000 Growth,Equity,Growth,^GSPC
+BND,Vanguard Total Bond Market,Fixed Income,Core Bond,AGG
+AGG,iShares Core U.S. Aggregate Bond,Fixed Income,Core Bond,AGG
+BSV,Vanguard Short-Term Bond,Fixed Income,Short Bond,SHY
+BIV,Vanguard Intermediate-Term Bond,Fixed Income,Interm Bond,IEF
+BLV,Vanguard Long-Term Bond,Fixed Income,Long Bond,TLT
+LQD,iShares iBoxx $ Inv Grade Corporate Bond,Fixed Income,Corp Bond,LQD
+VCIT,Vanguard Intermediate-Term Corporate Bond,Fixed Income,Corp Bond,LQD
+HYG,iShares iBoxx $ High Yield Corporate Bond,Fixed Income,High Yield,HYG
+JNK,SPDR Bloomberg High Yield Bond,Fixed Income,High Yield,HYG
+VWO,Vanguard FTSE Emerging Markets,Equity,Emerging,EEM
+EEM,iShares MSCI Emerging Markets,Equity,Emerging,EEM
+IEMG,iShares Core MSCI Emerging Markets,Equity,Emerging,EEM
+VNQ,Vanguard Real Estate,Alternative,Real Estate,IYR
+IYR,iShares U.S. Real Estate,Alternative,Real Estate,IYR
+GLD,SPDR Gold Shares,Alternative,Commodity,GC=F
+IAU,iShares Gold Trust,Alternative,Commodity,GC=F
+SLV,iShares Silver Trust,Alternative,Commodity,SI=F
+USO,United States Oil Fund,Alternative,Commodity,CL=F
+TLT,iShares 20+ Year Treasury Bond,Fixed Income,Long Bond,TLT
+IEF,iShares 7-10 Year Treasury Bond,Fixed Income,Interm Bond,IEF
+SHY,iShares 1-3 Year Treasury Bond,Fixed Income,Short Bond,SHY
+GOVT,iShares U.S. Treasury Bond,Fixed Income,Govt Bond,GOVT
+MUB,iShares National Muni Bond,Fixed Income,Muni,MUB
+VTEB,Vanguard Tax-Exempt Bond,Fixed Income,Muni,MUB
+XLE,Energy Select Sector SPDR,Equity,Sector,XLE
+XLF,Financial Select Sector SPDR,Equity,Sector,XLF
+XLK,Technology Select Sector SPDR,Equity,Sector,XLK
+XLV,Health Care Select Sector SPDR,Equity,Sector,XLV
+XLI,Industrial Select Sector SPDR,Equity,Sector,XLI
+XLY,Consumer Discretionary Select Sector SPDR,Equity,Sector,XLY
+XLP,Consumer Staples Select Sector SPDR,Equity,Sector,XLP
+XLU,Utilities Select Sector SPDR,Equity,Sector,XLU
+XLB,Materials Select Sector SPDR,Equity,Sector,XLB
+XLC,Communication Services Select Sector SPDR,Equity,Sector,XLC
+QQQ,Invesco QQQ,Equity,Large Cap,^NDX
+DIA,SPDR Dow Jones Industrial Average,Equity,Large Cap,^DJI
+IWM,iShares Russell 2000,Equity,Small Cap,IWM
+EFA,iShares MSCI EAFE,Equity,International,EFA
+VEA,Vanguard FTSE Developed Markets,Equity,International,EFA
+IEFA,iShares Core MSCI EAFE,Equity,International,EFA

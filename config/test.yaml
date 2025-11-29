@@ -1,0 +1,54 @@
+universe_profile: "test"
+universe_files:
+  test: "tickers/test_tickers.csv"
+
+liquidity:
+  min_adv_usd: 0
+  min_aum_usd: null
+  min_age_days: 0
+  exclude_patterns: []
+  allowlist: []
+
+windows:
+  premdisc: 126
+  volume: 20
+  range: 60
+  divergence: 126
+
+thresholds:
+  premdisc_z: 2.0
+  volume_z: 2.0
+  range_z: 2.0
+  divergence_z: 2.0
+  oas_jump_bps: 15
+  stress_z: 2.0
+  vix_z: 2.0
+
+weights:
+  premdisc: 0.35
+  volume: 0.25
+  divergence: 0.30
+  cross_asset: 0.10
+
+composite_to_action:
+  buy: -0.8
+  neutral: 0.3
+  sell: 0.8
+
+costs:
+  tx_bps: 2
+  slippage_bps: 3
+
+risk:
+  max_positions: 20
+  per_pos_cap: 0.08
+  bucket_cap: 0.40
+  stop_loss_pct: null
+  time_stop_days: 20
+
+execution:
+  use_next_open: true
+
+reporting:
+  out_dir: "reports_test"
+  include_charts: true

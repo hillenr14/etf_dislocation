@@ -1,0 +1,3 @@
+Ticker,Name,Asset Class,Sub Asset Class,benchmark_proxy
+VTI,Vanguard Total Stock Market ETF,Equity,Broad Market,SPY
+BND,Vanguard Total Bond Market ETF,Fixed Income,Broad Market,AGG

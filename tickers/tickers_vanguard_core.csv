@@ -1,0 +1,43 @@
+ticker,name,asset_class,category,benchmark_proxy
+VTI,Vanguard Total Stock Market,Equity,Broad Market,^GSPC
+VOO,Vanguard S&P 500,Equity,Large Cap,^GSPC
+VTV,Vanguard Value,Equity,Value,^GSPC
+VUG,Vanguard Growth,Equity,Growth,^GSPC
+BND,Vanguard Total Bond Market,Fixed Income,Core Bond,AGG
+BSV,Vanguard Short-Term Bond,Fixed Income,Short Bond,SHY
+BIV,Vanguard Intermediate-Term Bond,Fixed Income,Interm Bond,IEF
+BLV,Vanguard Long-Term Bond,Fixed Income,Long Bond,TLT
+VCIT,Vanguard Intermediate-Term Corporate Bond,Fixed Income,Corp Bond,LQD
+VCSH,Vanguard Short-Term Corporate Bond,Fixed Income,Corp Bond,SPSB
+VMBS,Vanguard Mortgage-Backed Securities,Fixed Income,MBS,MBB
+VGK,Vanguard FTSE Europe,Equity,International,IEV
+VPL,Vanguard FTSE Pacific,Equity,International,EPP
+VWO,Vanguard FTSE Emerging Markets,Equity,Emerging,EEM
+VNQ,Vanguard Real Estate,Alternative,Real Estate,IYR
+VIG,Vanguard Dividend Appreciation,Equity,Dividend,SDY
+VYM,Vanguard High Dividend Yield,Equity,Dividend,DVY
+VXUS,Vanguard Total International Stock,Equity,International,ACWX
+BNDX,Vanguard Total International Bond,Fixed Income,Intl Bond,IAGG
+VWOB,Vanguard Emerging Markets Government Bond,Fixed Income,EM Bond,EMB
+VTIP,Vanguard Short-Term Inflation-Protected Securities,Fixed Income,TIPS,TIP
+VTEB,Vanguard Tax-Exempt Bond,Fixed Income,Muni,MUB
+VO,Vanguard Mid-Cap,Equity,Mid Cap,IJH
+VB,Vanguard Small-Cap,Equity,Small Cap,IJR
+VGT,Vanguard Information Technology,Equity,Sector,XLK
+VHT,Vanguard Health Care,Equity,Sector,XLV
+VFH,Vanguard Financials,Equity,Sector,XLF
+VDE,Vanguard Energy,Equity,Sector,XLE
+VIS,Vanguard Industrials,Equity,Sector,XLI
+VPU,Vanguard Utilities,Equity,Sector,XLU
+VOX,Vanguard Communication Services,Equity,Sector,XLC
+VCR,Vanguard Consumer Discretionary,Equity,Sector,XLY
+VDC,Vanguard Consumer Staples,Equity,Sector,XLP
+VAW,Vanguard Materials,Equity,Sector,XLB
+MGK,Vanguard Mega Cap Growth,Equity,Growth,IWY
+MGV,Vanguard Mega Cap Value,Equity,Value,IWL
+VV,Vanguard Large-Cap,Equity,Large Cap,IWB
+MGC,Vanguard Mega Cap,Equity,Large Cap,OEF
+VONE,Vanguard Russell 1000,Equity,Large Cap,IWB
+VTWO,Vanguard Russell 2000,Equity,Small Cap,IWM
+VIOO,Vanguard S&P Small-Cap 600,Equity,Small Cap,IJR
+IVOO,Vanguard S&P Mid-Cap 400,Equity,Mid Cap,IJH
