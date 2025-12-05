@@ -43,7 +43,7 @@ def calculate_divergence_signal(
                 "triggered": False,
                 "details": "Benchmark data unavailable"
             }
-            z_scores_df[ticker] = pd.NA
+            z_scores_df[ticker] = np.nan
             continue
             
         price = prices[ticker]
